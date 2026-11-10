@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://benji-better.github.io//portfolio10/sitemap.xml
+Sitemap: https://benji-better.github.io//sitemap.xml
