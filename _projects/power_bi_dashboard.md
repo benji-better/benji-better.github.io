@@ -14,6 +14,8 @@ giscus_comments: true
 * Resolved a key inventory logic flaw within a synthetic dataset and simulated new synthetic data, giving three distinct seasonal demand curves.
 * Automated product classification into seasonal clusters by leveraging Scikit-learn K-Means with Min-Max normalized sales data.
 * Validated model flexibility by creating random shifts to ensure classification accuracy
+  
+[repository link](https://github.com/benji-better/sql_powerbi)
 
 
 <div class="row">

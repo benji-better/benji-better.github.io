@@ -30,7 +30,7 @@
       "Automated product classification into seasonal clusters by leveraging Scikit-learn K-Means with Min-Max normalized sales data", 
       "Validated model flexibility by creating random shifts to ensure classification accuracy"
       ],
-      "url": "/me/projects/airline_dashboard.html"
+      "url": "/projects/power_bi_dashboard"
     },
     
     {
@@ -41,7 +41,7 @@
       "Built an interactive live-mapping application using Plotly Dash and custom callback logic to visualize cancellations as geographic hotspots.", 
       "Developed dynamic multi-airline tracking metrics comparing cancellations across the big four domestic airlines (Southwest, American, Delta, United) to deliver insights within a live updating carrier performance dashboard" 
       ],
-      "url": "https://example.com"
+      "url": "/projects/airline_dashboard"
     },
 
     {
@@ -61,7 +61,8 @@
       "highlights": 
       ["Engineered cross-application Excel automations to streamline workflows, eliminate manual entries, and optimize processes across external system applications", 
       "Aggregated and consolidated 50+ disparate datasets, executing advanced data-cleaning methodologies to establish a unified dataset" 
-      ]
+      ],
+      "url": "/projects/skysolver"
     }
   ],
 
