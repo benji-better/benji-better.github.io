@@ -5,7 +5,7 @@ description: Seasonality Report and Daily Inventory Dashboard made using SQL and
 img: assets/img/project_img/sql_powerbi_26/seasonality_report_img.png
 importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 # Highlights
