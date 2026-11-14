@@ -5,7 +5,7 @@ description: Live Cancellation Dashboard with Airport Cancellation Map
 img: assets/img/airport_cancel_img.png
 importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 ### Highlights
